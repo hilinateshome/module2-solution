@@ -84,16 +84,16 @@ h1{
 }
 #mainbox1
 {
-	width:auto;
 	
+	width: auto;
 }
 #mainbox2
 {
-	width:auto;
+	width: auto;
 }
 #mainbox3
 {
-	width:auto;
+	width: auto;
 }
 #ibox
 {
@@ -116,6 +116,15 @@ h1{
 	margin-left:auto;
 	height: 50px;
 	border: solid 1px;
+}
+.main
+{
+
+
+margin: auto;
+
+
+
 }
 }
 
